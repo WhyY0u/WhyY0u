@@ -1,4 +1,1 @@
-## ⏱ WakaTime Stats
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+[![wakatime](https://wakatime.com/badge/user/a0693221-eaeb-4bad-ae2c-a5f8ba5c4f3f.svg)](https://wakatime.com/@a0693221-eaeb-4bad-ae2c-a5f8ba5c4f3f)
